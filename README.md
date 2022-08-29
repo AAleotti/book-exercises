@@ -1,5 +1,3 @@
-# This version of the README was modified by AAleotti.
-
 # Book exercises
 
 ## This version of the README.md was modified by AAleotti.
