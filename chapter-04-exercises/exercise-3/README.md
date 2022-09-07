@@ -10,7 +10,7 @@ In your `README.md` document, provide some information about a terminal command 
 Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 
-##_sed_
+## The command that I learnt is _sed_
 
 Example of usage:
 
