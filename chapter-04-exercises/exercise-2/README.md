@@ -8,7 +8,7 @@ Note that you can preview this Markdown in Atom to make sure it works correctly.
 
 **List of courses I am attending**:
 
-|**Number**|_Title_          |Instructor          |
-|:---------|:----------------|:-------------------|
-|1         |R Programming    |M. Freeman & J. Ross|
-|2         |Network Analysis |Physalia courses    |
+|**Number**    |_Title_            |Instructor          |
+|:-------------|:------------------|:-------------------|
+|**1**         |_R Programming_    |M. Freeman & J. Ross|
+|**2**         |_Network Analysis_ |Physalia courses    |
