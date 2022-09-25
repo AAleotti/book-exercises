@@ -31,6 +31,15 @@ even <- seq(2, 100, 2)
 # numbers in your `even` vector are even
 
 all(even, even %% 2 ==0)
+#[1] TRUE
+#Warning message:
+#  In all(even, even%%2 == 0) : coercing argument of type 'double' to logical
+
+
+# In solutions:
+test <- all(even %% 2 == 0)
+test
+#[1] TRUE
 
 # Create a vector `phone_numbers` that contains the numbers 8, 6, 7, 5, 3, 0, 9
 
